@@ -6,7 +6,7 @@ int main()
 {
 
     cout << "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=" << endl;
-    cout << "Felipe Meireles is a Developer" << endl;
+    cout << "Basic structure of C++" << endl;
     cout << "=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=" << endl;
     cout << "" << endl;
 
